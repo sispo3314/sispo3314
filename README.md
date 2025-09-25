@@ -1,5 +1,13 @@
 ## Hi there 👋
 
+
+<a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=sispo3314&utm_content=farm">
+<img
+  src="https://render.gitanimals.org/farms/sispo3314"
+  width="600"
+  height="300"
+/>
+</a>
 <!--
 **sispo3314/sispo3314** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
